@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "prog122b", "prog122b.pyproj", "{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}"
+EndProject
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "prog122a", "prog122a.pyproj", "42114025-ED1B-472C-887A-2FA0C6A81BAA"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}.Debug|x86.Build.0 = Debug|x86
+		{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}.Debug|x86.ActiveCfg = Debug|x86
+		{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}.Release|x86.Build.0 = Release|x86
+		{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}.Release|x86.ActiveCfg = Release|x86
+		{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566E4BCA-7B8F-475A-9B0F-4DDD106D7171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		42114025-ED1B-472C-887A-2FA0C6A81BAA.Debug|x86.Build.0 = Debug|x86
+		42114025-ED1B-472C-887A-2FA0C6A81BAA.Debug|x86.ActiveCfg = Debug|x86
+		42114025-ED1B-472C-887A-2FA0C6A81BAA.Debug|Any CPU.Build.0 = Debug|x86
+		42114025-ED1B-472C-887A-2FA0C6A81BAA.Debug|Any CPU.ActiveCfg = Debug|x86
+		42114025-ED1B-472C-887A-2FA0C6A81BAA.Release|x86.Build.0 = Release|x86
+		42114025-ED1B-472C-887A-2FA0C6A81BAA.Release|x86.ActiveCfg = Release|x86
+		42114025-ED1B-472C-887A-2FA0C6A81BAA.Release|Any CPU.Build.0 = Release|x86
+		42114025-ED1B-472C-887A-2FA0C6A81BAA.Release|Any CPU.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\SlotMachine.dll
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\IronPython.dll
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\IronPython.Modules.dll
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\Microsoft.Scripting.dll
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\IronPython.xml
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\bin\Debug\IronPython.Modules.xml
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\obj\x86\Debug\SlotMachine.pyprojResolveAssemblyReference.cache
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\obj\x86\Debug\SlotMachine.exe
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\obj\x86\Debug\SlotMachine.MainForm.resources
+C:\Users\beed.t\Desktop\Prog1\SlotMachine\obj\x86\Debug\SlotMachine.pyproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\obj\x86\Debug\Prog88a.pyprojResolveAssemblyReference.cache
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\obj\x86\Debug\Prog88a.MainForm.resources
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\obj\x86\Debug\Prog88a.pyproj.GenerateResource.Cache
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\Prog88a.exe.config
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\Prog88a.exe
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\Prog88a.dll
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\IronPython.dll
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\IronPython.Modules.dll
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\IronPython.xml
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\bin\Debug\IronPython.Modules.xml
+C:\Users\beed.t\Desktop\Prog1\Prog88a\Prog88a\obj\x86\Debug\Prog88a.exe

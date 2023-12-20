@@ -1,0 +1,14 @@
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\ProgStadiumSeating.exe.config
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\ProgStadiumSeating.exe
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\ProgStadiumSeating.dll
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\IronPython.dll
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\IronPython.Modules.dll
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\Microsoft.Scripting.dll
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\IronPython.xml
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\bin\Debug\IronPython.Modules.xml
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\obj\x86\Debug\ProgStadiumSeating.MainForm.resources
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\obj\x86\Debug\ProgStadiumSeating.pyproj.GenerateResource.Cache
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\obj\x86\Debug\ProgStadiumSeating.exe
+C:\Users\beed.t\Desktop\Prog1\ProgStadiumSeating\obj\x86\Debug\ProgStadiumSeating.pyprojResolveAssemblyReference.cache

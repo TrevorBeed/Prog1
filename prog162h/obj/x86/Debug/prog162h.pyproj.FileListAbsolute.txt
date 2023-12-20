@@ -1,0 +1,14 @@
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\prog162h.exe.config
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\prog162h.exe
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\prog162h.dll
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\IronPython.dll
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\IronPython.Modules.dll
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\Microsoft.Scripting.dll
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\IronPython.xml
+C:\Users\beed.t\Desktop\Prog1\prog162h\bin\Debug\IronPython.Modules.xml
+C:\Users\beed.t\Desktop\Prog1\prog162h\obj\x86\Debug\prog162h.pyprojResolveAssemblyReference.cache
+C:\Users\beed.t\Desktop\Prog1\prog162h\obj\x86\Debug\prog162h.exe
+C:\Users\beed.t\Desktop\Prog1\prog162h\obj\x86\Debug\prog162h.MainForm.resources
+C:\Users\beed.t\Desktop\Prog1\prog162h\obj\x86\Debug\prog162h.pyproj.GenerateResource.Cache
